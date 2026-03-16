@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Srinivas KR 👋
 
-<!--
-**Srinivas-KR-Dev/Srinivas-KR-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer specializing in MERN and PERN stack applications.
 
-Here are some ideas to get you started:
+Previously worked as a Senior Process Associate at Accenture before transitioning into software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Tailwind
+
+**Backend**
+- Node.js
+- Express
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- MS SQL
+
+**Tools**
+- Git
+- Prisma
+- Mongoose
+- Vitest
+- AWS
+
+---
+## 🚀 Featured Projects
+
+**Full Stack E-Commerce Application**  
+React + TypeScript + Node.js + MongoDB  
+
+**E-Commerce Backend (PostgreSQL + Prisma)**  
+Node.js + Express + PostgreSQL  
+
+**E-Commerce Backend (MongoDB + Mongoose)**  
+Node.js + Express + MongoDB  
+
+**Node Authentication API**  
+JWT + Refresh Token Rotation  
+
+**React Chatbot**  
+TypeScript + React  
+
+**Restaurant Website**  
+HTML + CSS
+
+---
+
+## 🌐 Live Project
+https://srinivaskr.live
+
+---
+
+## 📫 Contact
+LinkedIn:  
+https://www.linkedin.com/in/srinivas-k-907a32104
