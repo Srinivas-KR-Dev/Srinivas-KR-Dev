@@ -10,33 +10,44 @@ Previously worked as a Senior Process Associate at Accenture before transitionin
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" width="40"/> React  
+  <img src="https://skillicons.dev/icons?i=js" width="40"/> JavaScript  
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/> TypeScript  
+  <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML  
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> CSS  
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> Tailwind  
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" width="40"/> Express  
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mssql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB  
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> PostgreSQL  
+  <img src="https://skillicons.dev/icons?i=mssql" width="40"/> MS SQL  
 </p>
 
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,prisma,aws" />
+  <img src="https://skillicons.dev/icons?i=git" width="40"/> Git  
+  <img src="https://skillicons.dev/icons?i=prisma" width="40"/> Prisma  
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/> AWS  
 </p>
 
 ### 📦 Libraries / Testing
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="48" />
-  <img src="https://vitest.dev/logo.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40"/> Mongoose  
+  <img src="https://vitest.dev/logo.svg" width="40"/> Vitest  
 </p>
+
 ---
 ## 🚀 Featured Projects
 
