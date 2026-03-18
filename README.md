@@ -5,32 +5,31 @@ Full Stack Developer specializing in MERN and PERN stack applications.
 Previously worked as a Senior Process Associate at Accenture before transitioning into software development.
 
 ---
-
 ## 💻 Tech Stack
 
-**Frontend**
-- React
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Tailwind
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
 
-**Backend**
-- Node.js
-- Express
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Databases**
-- MongoDB
-- PostgreSQL
-- MS SQL
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mssql" />
+</p>
 
-**Tools**
-- Git
-- Prisma
-- Mongoose
-- Vitest
-- AWS
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,prisma,aws" />
+</p>
+
+<p>
+  <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
+</p>
 
 ---
 ## 🚀 Featured Projects
