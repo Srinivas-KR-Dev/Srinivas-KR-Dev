@@ -37,14 +37,14 @@ Previously worked as a Senior Process Associate at Accenture before transitionin
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="40"/> Git  
-  <img src="https://skillicons.dev/icons?i=prisma" width="40"/> Prisma  
+  <img src="https://skillicons.dev/icons?i=prisma" width="40"/> Prisma
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40"/> Mongoose
   <img src="https://skillicons.dev/icons?i=aws" width="40"/> AWS  
 </p>
 
-### 📦 Libraries / Testing
+### 📦 Testing
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40"/> Mongoose  
   <img src="https://vitest.dev/logo.svg" width="40"/> Vitest  
 </p>
 
