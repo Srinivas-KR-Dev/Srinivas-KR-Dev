@@ -61,7 +61,10 @@ Node.js + Express + PostgreSQL
 Node.js + Express + MongoDB  
 
 **Node Authentication API**  
-JWT + Refresh Token Rotation  
+JWT + Refresh Token Rotation
+
+**Node Authentication Frontend Demo**
+React + JavaScript
 
 **React Chatbot**  
 TypeScript + React  
