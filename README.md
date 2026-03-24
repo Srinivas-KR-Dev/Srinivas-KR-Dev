@@ -81,4 +81,4 @@ https://srinivaskr.live
 
 ## 📫 Contact
 LinkedIn:  
-https://www.linkedin.com/in/srinivas-k-907a32104
+https://www.linkedin.com/in/srinivas-kr-dev
