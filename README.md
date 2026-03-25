@@ -7,7 +7,7 @@ Full Stack Developer (MERN & PERN) building scalable web applications.
 - 💻 Developed 7+ full-stack and backend projects
 
 🎓 Full Stack Certified – iHUB DivyaSampark, IIT Roorkee  
-🍃 MongoDB Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
+🍃 MongoDB University Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
 
 Former Senior Process Associate at Accenture → transitioned into software development  
 Bringing 9+ years of experience with strong analytical and problem-solving skills
