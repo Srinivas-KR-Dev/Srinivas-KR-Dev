@@ -1,15 +1,16 @@
 # Hi, I'm Srinivas KR 👋
 
-Full Stack Developer with hands-on experience building and deploying scalable web applications using MERN and PERN stacks.
+Full Stack Developer (MERN & PERN) building scalable web applications.
 
-Deployed a live e-commerce application on AWS Elastic Beanstalk with custom domain and SSL, integrating MongoDB Atlas and PostgreSQL.
-Built a secure authentication system using Node.js, Express, and JWT with refresh token rotation and role-based authorization.
-Developed 7+ projects including full-stack applications, backend systems, and React-based UIs.
+- 🚀 Deployed a live e-commerce app on AWS (Elastic Beanstalk, custom domain, SSL)
+- 🔐 Built JWT-based authentication with refresh tokens & RBAC
+- 💻 Developed 7+ full-stack and backend projects
 
-Certified in Full Stack Web Development by iHUB DivyaSampark, IIT Roorkee, with hands-on experience in modern web technologies and scalable architecture.
-Hands-on experience with MongoDB including aggregation pipelines, indexing strategies, CRUD operations, and query optimization (MongoDB University certified).
+🎓 Full Stack Certified – iHUB DivyaSampark, IIT Roorkee  
+🍃 MongoDB Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
 
-I previously worked as a Senior Process Associate at Accenture before transitioning into software development, bringing strong analytical and problem-solving skills, along with 9+ years of professional experience, to build high-quality software with attention to detail and a structured approach.
+Former Senior Process Associate at Accenture → transitioned into software development  
+Bringing 9+ years of experience with strong analytical and problem-solving skills
 
 ---
 ## 💻 Tech Stack
