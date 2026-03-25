@@ -1,4 +1,4 @@
-# Hi, I'm Srinivas KR 👋
+# Hi, I'm Srinivas K R 👋
 
 Full Stack Developer (MERN & PERN) building scalable web applications.
 
