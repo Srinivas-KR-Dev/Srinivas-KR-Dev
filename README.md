@@ -23,7 +23,7 @@ Bringing 9+ years of experience with strong analytical and problem-solving skill
 ## 🚀 Featured Project
 
 ### 🛍️ AI-Powered E-Commerce Platform  
-[Live Demo](https://srinivaskr.live) · [Frontend Repo](#) · [Backend Repo](#)
+[Live Demo](https://srinivaskr.live) · [Frontend Repo](https://github.com/Srinivas-KR-Dev/react-ecommerce-typescript) · [Backend Repo](https://github.com/Srinivas-KR-Dev/ecommerce-backend-mongodb)
 > Intelligent product search & AI shopping assistant
 
 **Key Features:**
