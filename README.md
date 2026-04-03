@@ -1,18 +1,40 @@
 # Hi, I'm Srinivas K R 👋
 
 Full Stack Developer (MERN & PERN)
-Building scalable web applications with intelligent AI-powered features
+Specialized in integrating AI into real-world applications with focus on reliability, performance, and user experience.
 
 🔥 What I Do
-- Build AI-powered full stack applications using modern web technologies
-- Implement AI search & conversational assistants using LLM APIs
-- Design backend systems with strong architecture, security, and scalability
+- 🤖 Integrate LLM APIs (Gemini, OpenAI) into production apps — 
+  AI search, conversational assistants, RAG - retrieval
+- 🚀 Deploy full stack apps on AWS with custom domains and SSL
+- 🗄️ Build backends in both MongoDB and PostgreSQL — 
+  same API, different database paradigm
+- 🔐 Design secure backend systems with JWT auth, 
+  refresh token rotation, and RBAC
 
 🎓 Full Stack Certified – iHUB DivyaSampark, IIT Roorkee  
 🍃 MongoDB University Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
 
 Former Senior Process Associate at Accenture → transitioned into software development  
 Bringing 9+ years of experience with strong analytical and problem-solving skills
+
+---
+
+## 🚀 Featured Project
+
+### 🛍️ AI-Powered E-Commerce Platform  
+[Live Demo](https://srinivaskr.live) · [Frontend Repo](#) · [Backend Repo](#)
+> Intelligent product search & AI shopping assistant
+
+**Key Features:**
+- 🔍 AI Product Search (intent-based, not keyword-based)  
+- 💬 AI Shopping Assistant (context-aware recommendations using real product data)  
+- 🧠 Retrieval-Augmented Pattern (RAG-style architecture)  
+- 🛡️ Hallucination control using structured prompts and fallback logic  
+- ⚙️ Hybrid system (AI + deterministic ranking for reliability)  
+
+**Tech Stack:**  
+React + TypeScript + Node.js + Express + MongoDB + Google Gemini API  
 
 ---
 ## 💻 Tech Stack
@@ -45,7 +67,7 @@ Bringing 9+ years of experience with strong analytical and problem-solving skill
 
 ### 🧠 AI & Modern Tools
 
-LLM API Integration (Google Gemini, OpenAI) • Prompt Engineering • AI Integration • RAG 
+LLM APIs Integration (Google Gemini, OpenAI) • Prompt Engineering • AI System Design • RAG • Context Injection • AI Response Control
 
 ### 🛠️ Tools
 
@@ -63,10 +85,7 @@ LLM API Integration (Google Gemini, OpenAI) • Prompt Engineering • AI Integr
 </p>
 
 ---
-## 🚀 Featured Projects
-
-**AI-Powered Full Stack E-Commerce Platform**  
-React + TypeScript + Node.js + MongoDB + AI Integration
+## 🏗️ Other Projects
 
 **E-Commerce Backend (MongoDB + Mongoose)**  
 Node.js + Express + MongoDB  
@@ -77,7 +96,7 @@ Node.js + Express + PostgreSQL
 **Node Authentication API**  
 JWT + Refresh Token Rotation
 
-**Node Authentication Frontend Demo**
+**Node Authentication Frontend Demo**  
 React + JavaScript
 
 **React Chatbot**  
@@ -88,11 +107,13 @@ HTML + CSS
 
 ---
 
-## 🌐 Live Project
-https://srinivaskr.live
+## 🌐 Live Demo
+**[srinivaskr.live](https://srinivaskr.live)** — AI-Powered E-Commerce Platform  
+Deployed on AWS Elastic Beanstalk · MongoDB Atlas · SSL enabled
 
 ---
 
 ## 📫 Contact
 LinkedIn:  
-https://www.linkedin.com/in/srinivas-kr-dev
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/srinivas-kr-dev) https://www.linkedin.com/in/srinivas-kr-dev
