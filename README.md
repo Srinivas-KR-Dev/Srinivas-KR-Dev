@@ -3,6 +3,7 @@
 Full Stack Developer (MERN & PERN)
 Building scalable web applications with intelligent AI-powered features
 
+🔥 What I Do
 - Build AI-powered full stack applications using modern web technologies
 - Implement AI search & conversational assistants using LLM APIs
 - Design backend systems with strong architecture, security, and scalability
