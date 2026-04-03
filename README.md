@@ -1,10 +1,11 @@
 # Hi, I'm Srinivas K R 👋
 
-Full Stack Developer (MERN & PERN) building scalable web applications.
+Full Stack Developer (MERN & PERN)
+Building scalable web applications with intelligent AI-powered features
 
-- 🚀 Deployed a live e-commerce app on AWS (Elastic Beanstalk, custom domain, SSL)
-- 🔐 Built JWT-based authentication with refresh tokens & RBAC
-- 💻 Developed 7+ full-stack and backend projects
+- Build AI-powered full stack applications using modern web technologies
+- Implement AI search & conversational assistants using LLM APIs
+- Design backend systems with strong architecture, security, and scalability
 
 🎓 Full Stack Certified – iHUB DivyaSampark, IIT Roorkee  
 🍃 MongoDB University Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
@@ -41,6 +42,10 @@ Bringing 9+ years of experience with strong analytical and problem-solving skill
   <img src="https://skillicons.dev/icons?i=mssql" width="40"/> MS SQL  
 </p>
 
+### 🧠 AI & Modern Tools
+
+LLM API Integration (Google Gemini, OpenAI) • Prompt Engineering • AI Integration • RAG 
+
 ### 🛠️ Tools
 
 <p>
@@ -59,14 +64,14 @@ Bringing 9+ years of experience with strong analytical and problem-solving skill
 ---
 ## 🚀 Featured Projects
 
-**Full Stack E-Commerce Application**  
-React + TypeScript + Node.js + MongoDB  
-
-**E-Commerce Backend (PostgreSQL + Prisma)**  
-Node.js + Express + PostgreSQL  
+**AI-Powered Full Stack E-Commerce Platform**  
+React + TypeScript + Node.js + MongoDB + AI Integration
 
 **E-Commerce Backend (MongoDB + Mongoose)**  
 Node.js + Express + MongoDB  
+
+**E-Commerce Backend (PostgreSQL + Prisma)**  
+Node.js + Express + PostgreSQL  
 
 **Node Authentication API**  
 JWT + Refresh Token Rotation
