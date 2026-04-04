@@ -1,11 +1,11 @@
 # Hi, I'm Srinivas K R 👋
 
-Full Stack Developer (MERN & PERN)
+Full Stack AI Engineer (MERN & PERN)
 Specialized in integrating AI into real-world applications with focus on reliability, performance, and user experience.
 
 🔥 What I Do
 - 🤖 Integrate LLM APIs (Gemini, OpenAI) into production apps — 
-  AI search, conversational assistants, RAG - retrieval
+  AI search, conversational assistants, RAG - Retrieval-Augmented Generation
 - 🚀 Deploy full stack apps on AWS with custom domains and SSL
 - 🗄️ Build backends in both MongoDB and PostgreSQL — 
   same API, different database paradigm
