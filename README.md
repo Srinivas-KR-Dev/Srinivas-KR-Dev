@@ -15,8 +15,8 @@ Specialized in integrating AI into real-world applications with focus on reliabi
 🎓 Full Stack Certified – iHUB DivyaSampark, IIT Roorkee  
 🍃 MongoDB University Certified (SQL to NoSQL, Aggregation, CRUD, Indexing, Query Optimization)
 
-Former Senior Process Associate at Accenture → transitioned into software development  
-Bringing 9+ years of experience with strong analytical and problem-solving skills
+Former Senior Associate at Accenture 
+Bringing 8+ years of experience with strong analytical and problem-solving skills
 
 ---
 
